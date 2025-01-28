@@ -9,7 +9,6 @@ Sou Felipe Sabino Maraboti, estudante de Sistemas de Informação e apaixonado p
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipwsabino/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=felipemarabotti989@gmail.com")
 
-<br/>
 
 ### 💻 Linguagems e Tecnologias
 
@@ -78,7 +77,7 @@ Sou Felipe Sabino Maraboti, estudante de Sistemas de Informação e apaixonado p
 <img
     align="left"
     alt="github stats"
-    height="200"
+    height="150"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=felipemaraboti&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
 />
@@ -86,7 +85,7 @@ Sou Felipe Sabino Maraboti, estudante de Sistemas de Informação e apaixonado p
 <img
     align="left"
     alt="github stats"
-    height="200"
+    height="150"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaraboti&theme=dracula&layout=compact&custom_title=Tecnologias" 
 />
