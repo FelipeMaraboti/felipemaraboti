@@ -74,21 +74,8 @@ Sou Felipe Sabino Maraboti, estudante de Sistemas de Informação e apaixonado p
 
 ### 📊 Estatísticas
 
-<img
-    align="left"
-    alt="github stats"
-    height="150"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=felipemaraboti&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipeMaraboti&theme=dawnfox&hide_border=true&border_radius=15&locale=pt_BR&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-<img
-    align="left"
-    alt="github stats"
-    height="150"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaraboti&theme=dracula&layout=compact&custom_title=Tecnologias" 
-/>
 
           
           
